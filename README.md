@@ -39,9 +39,12 @@
   ## Links
   
   Heroku webpage
+  
   https://vast-ravine-20794.herokuapp.com/ 
   
   GitHub Code URL
+  
+  https://github.com/Wickette/newNoteTaker.git
   
   
   ## Images
